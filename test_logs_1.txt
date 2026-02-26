@@ -1,0 +1,4 @@
+2024-01-01T10:00:00 INFO user=alice action=login
+2024-01-01T10:00:01 INFO action=login user=alice
+2024-01-01T10:00:05 INFO user=alice action=login
+2024-01-01T10:10:00 INFO user=bob action=login
