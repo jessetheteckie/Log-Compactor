@@ -1,0 +1,2 @@
+2024-01-01T10:00:00 INFO user=alice action=upload code=503
+2024-01-01T10:00:01 WARNING user=alice action=upload code=502
