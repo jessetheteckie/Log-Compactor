@@ -1,0 +1,2 @@
+2024-01-01T10:02:00 ERROR user=alice action=upload code=500
+2024-01-01T10:02:01 ERROR action=upload user=alice code=500
